@@ -8,4 +8,4 @@ Terra O is a web application developed during [NASA International Space Apps Cha
 
 ## Authors
 
-A project made by [Gabriel Willian Bartmanovicz](https://github.com/obielwb), [João Pedro Ferreira Barbosa](https://github.com/ojpbarbosa) and [Víctor Augusto De Paula Gonçalves](https://github.com/VauP).
+A project made by [Gabriel Willian Bartmanovicz](https://github.com/obielwb), [João Pedro Ferreira Barbosa](https://github.com/ojpbarbosa), Thiago Villar de Carvalho and [Víctor Augusto De Paula Gonçalves](https://github.com/VauP).
