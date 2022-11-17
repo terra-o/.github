@@ -4,7 +4,7 @@
 
 ## About
 
-Terra O is a web application developed during [NASA International Space Apps Challenge 2022](https://www.spaceappschallenge.org/) that provides capacity building resources to Earth Observations. Intended and specifically built to help policymakers all around the world use Earth data to base decisions in order to address natural disasters, land management issues, the impacts of climate change, and other environmental issues.
+[Terra O](https://terrao.earth/) is a web application developed during [NASA International Space Apps Challenge 2022](https://www.spaceappschallenge.org/) that provides capacity building resources to Earth Observations. Intended and specifically built to help policymakers all around the world use Earth data to base decisions in order to address natural disasters, land management issues, the impacts of climate change, and other environmental issues.
 
 ## Authors
 
